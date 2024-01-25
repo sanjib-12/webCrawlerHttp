@@ -1,4 +1,4 @@
 node_modules/
-output.txt
-crawl.test.js
-report.test.js
+/output.txt
+/crawl.test.js
+/report.test.js
